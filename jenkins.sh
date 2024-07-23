@@ -1,6 +1,6 @@
 #!/bin/bash
-env = $1
-tag = $2
+env=$1
+tag=$2
 
 echo "Environment : $env"
 echo "Tags : $tag"
